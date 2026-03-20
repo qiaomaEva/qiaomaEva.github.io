@@ -11,7 +11,9 @@
       "Bash(powershell -Command '$env:PATH = \"\"C:\\\\Program Files\\\\nodejs;C:\\\\Users\\\\Eva\\\\AppData\\\\Local\\\\Microsoft\\\\WinGet\\\\Packages\\\\Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe;\"\" + $env:PATH; & \"\"C:\\\\Users\\\\Eva\\\\AppData\\\\Roaming\\\\npm\\\\pnpm.cmd\"\" dev')",
       "Bash(cmd /c \"run.bat\")",
       "Bash(cmd /c \"C:\\\\Program Files\\\\Go\\\\bin\\\\go.exe version\")",
-      "Bash(powershell -ExecutionPolicy Bypass -File run.ps1)"
+      "Bash(powershell -ExecutionPolicy Bypass -File run.ps1)",
+      "Bash(git push:*)",
+      "Bash(git remote:*)"
     ]
   }
 }
