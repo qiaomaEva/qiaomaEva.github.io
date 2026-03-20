@@ -1,42 +1,33 @@
 ---
 title: IVF索引
-summary: "One-sentence takeaway for busy readers (also used in cards and SEO)."
+summary: One-sentence takeaway for busy readers (also used in cards and SEO).
 date: 2026-03-20
-draft: true
-
-# Featured image for cards/social
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Credit or context (Markdown supported)'
-
+  caption: Credit or context (Markdown supported)
 cover:
-  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=1600"
+  image: https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=1600
   position:
     x: 50
     y: 40
   overlay:
     enabled: true
-    type: "gradient"
+    type: gradient
     opacity: 0.4
-    gradient: "bottom"
+    gradient: bottom
   fade:
     enabled: true
-    height: "80px"
+    height: 80px
   icon:
-    name: "✨"
-
-# Authors are matched to profiles in content/authors/
+    name: ✨
 authors:
   - me
-
 tags:
   - RAG
   - 向量索引
-
 content_meta:
   trending: false
+status: published
 ---
-
 IVF (Inverted File Index) 是 FAISS 中一种重要的索引类型，它通过聚类来加速大规模向量搜索。本文详细解释 IVF 索引的原理、创建过程和使用方法。
 
 ## 1. IVF 索引的基本原理
