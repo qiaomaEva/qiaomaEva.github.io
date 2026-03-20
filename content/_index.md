@@ -20,12 +20,11 @@ sections:
       show_scroll_indicator: true
       typewriter:
         enable: true
-        prefix: "I build"
+        prefix: "I explore"
         strings:
-          - "full-stack web apps"
-          - "scalable APIs"
-          - "beautiful UIs"
-          - "open source tools"
+          - "large language models"
+          - "multimodal data processing"
+          - "cutting-edge tech stacks"
         type_speed: 70
         delete_speed: 40
         pause_time: 2500
