@@ -222,7 +222,7 @@ sections:
       text: |-
         I'm always interested in hearing about new projects and opportunities.
         Whether you're looking to hire, collaborate, or just want to say hi, feel free to reach out!
-      email: alex@example.com
+      email: qiaomaEva@outlook.com
       autolink: true
     design:
       columns: '1'
