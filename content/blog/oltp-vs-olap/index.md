@@ -2,13 +2,8 @@
 title: OLTP v.s. OLAP
 summary: "One-sentence takeaway for busy readers (also used in cards and SEO)."
 date: 2026-03-24
-draft: true
-
-# Featured image for cards/social
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Credit or context (Markdown supported)'
-
 cover:
   image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=1600"
   position:
@@ -16,19 +11,17 @@ cover:
     y: 40
   overlay:
     enabled: true
-    type: "gradient"
+    type: gradient
     opacity: 0.4
-    gradient: "bottom"
+    gradient: bottom
   fade:
     enabled: true
-    height: "80px"
+    height: 80px
   icon:
     name: "✨"
 
-# Authors are matched to profiles in content/authors/
 authors:
   - me
-
 tags:
   - DE
 
